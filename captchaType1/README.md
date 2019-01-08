@@ -1,5 +1,7 @@
 # 验证码类型1
 
+[Download](https://github.com/scientihark/tensorCaptcha/releases/tag/type1.v1)
+
 ## 说明
 
 图例  ![img](example.gif)
@@ -40,7 +42,7 @@ matplotlib
 
 下载训练结果
 
-见release
+[Download](https://github.com/scientihark/tensorCaptcha/releases/tag/type1.v1)
 
 
 命令行调用 
@@ -71,7 +73,7 @@ OCR(`${filePath}`,(code)=>{
 
 下载原始数据
 
-见release
+[Download](https://github.com/scientihark/tensorCaptcha/releases/tag/type1.v1)
 
 
 ```
