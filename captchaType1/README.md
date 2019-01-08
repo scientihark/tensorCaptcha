@@ -2,7 +2,7 @@
 
 ## 说明
 
-图例见example.gif
+图例  ![img](example.gif)
 
 字符包括 0-9
 
