@@ -7,4 +7,4 @@ captcha solvers with tensorflow
 
 [Go to captcha type 1](captchaType1)
 
-[Go to captcha type 1 without split](captchaType1_nosplit)
+[Go to captcha type 1 without split](captchaType1_noSplit)
